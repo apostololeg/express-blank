@@ -1,3 +1,7 @@
-#Express
+#Project stub #1
 
-Simple blank of express server with ejs templating for fast starting new project.
+Simple blank for fast starting new project.
+
+components:
+  * express.js
+  * ejs

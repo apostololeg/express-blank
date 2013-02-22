@@ -2,6 +2,6 @@
 
 Simple blank for fast starting new project.
 
-components:
+#Components
   * express.js
   * ejs
